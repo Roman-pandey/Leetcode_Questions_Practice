@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0860-lemonade-change) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3731-find-missing-elements) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
+| [0605-can-place-flowers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0860-lemonade-change) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
