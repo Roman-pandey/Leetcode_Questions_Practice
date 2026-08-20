@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3731-find-missing-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3731-find-missing-elements) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3731-find-missing-elements) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0680-valid-palindrome-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1005-maximize-sum-of-array-after-k-negations](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
