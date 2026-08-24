@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3731-find-missing-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
+| [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
