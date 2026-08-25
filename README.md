@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
+| [1903-largest-odd-number-in-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## String
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Greedy
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1013-partition-array-into-three-parts-with-equal-sum](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1013-partition-array-into-three-parts-with-equal-sum) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
+| [1903-largest-odd-number-in-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
