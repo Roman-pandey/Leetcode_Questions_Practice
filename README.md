@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0611-valid-triangle-number) |
 | [0860-lemonade-change](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0611-valid-triangle-number) |
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1005-maximize-sum-of-array-after-k-negations](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1005-maximize-sum-of-array-after-k-negations) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -52,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0134-gas-station) |
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
@@ -83,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0611-valid-triangle-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0611-valid-triangle-number) |
 ## Binary Tree
 |  |
 | ------- |
@@ -92,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0392-is-subsequence](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
+| [0611-valid-triangle-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0611-valid-triangle-number) |
 | [0680-valid-palindrome-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0680-valid-palindrome-ii) |
 ## Dynamic Programming
 |  |
