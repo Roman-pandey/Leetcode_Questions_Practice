@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3731-find-missing-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3731-find-missing-elements) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sorting
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
 | [1903-largest-odd-number-in-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
