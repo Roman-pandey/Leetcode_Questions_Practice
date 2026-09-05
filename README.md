@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0680-valid-palindrome-ii) |
 | [1903-largest-odd-number-in-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0001-two-sum) |
+| [0383-ransom-note](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0383-ransom-note) |
 | [0888-fair-candy-swap](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0383-ransom-note) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Divide and Conquer
 |  |
