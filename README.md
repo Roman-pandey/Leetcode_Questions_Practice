@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0680-valid-palindrome-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0001-two-sum) |
+| [0205-isomorphic-strings](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0383-ransom-note) |
 | [0888-fair-candy-swap](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0888-fair-candy-swap) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
