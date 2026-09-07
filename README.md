@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0134-gas-station) |
+| [0137-single-number-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0137-single-number-ii) |
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0611-valid-triangle-number) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0509-fibonacci-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
