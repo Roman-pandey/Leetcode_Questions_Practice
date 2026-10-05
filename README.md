@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0856-score-of-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -168,4 +169,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0836-rectangle-overlap) |
+## Stack
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0856-score-of-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
