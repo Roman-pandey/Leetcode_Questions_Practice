@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0856-score-of-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1903-largest-odd-number-in-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0611-valid-triangle-number) |
+| [0678-valid-parenthesis-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0680-valid-palindrome-ii) |
 | [0860-lemonade-change](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0860-lemonade-change) |
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0392-is-subsequence](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0678-valid-parenthesis-string) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Quicksort
 |  |
@@ -172,9 +175,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
