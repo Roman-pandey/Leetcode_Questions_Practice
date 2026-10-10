@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0383-ransom-note) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0045-jump-game-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0045-jump-game-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -189,9 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
