@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0134-gas-station](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0137-single-number-ii) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0455-assign-cookies) |
 | [0605-can-place-flowers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0611-valid-triangle-number) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0509-fibonacci-number) |
 | [0836-rectangle-overlap](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0836-rectangle-overlap) |
 | [0976-largest-perimeter-triangle](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0976-largest-perimeter-triangle) |
