@@ -209,4 +209,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
