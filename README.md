@@ -214,4 +214,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0595-big-countries](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0595-big-countries) |
 | [1148-article-views-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1148-article-views-i) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
