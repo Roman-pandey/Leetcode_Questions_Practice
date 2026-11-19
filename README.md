@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1827-minimum-operations-to-make-the-array-increasing](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1827-minimum-operations-to-make-the-array-increasing) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3483-unique-3-digit-even-numbers) |
 | [3731-find-missing-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3875-construct-uniform-parity-array-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3731-find-missing-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1903-largest-odd-number-in-string) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Hash Table
