@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1068-product-sales-analysis-i) |
 | [1148-article-views-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1148-article-views-i) |
