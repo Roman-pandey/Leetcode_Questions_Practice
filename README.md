@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0175-combine-two-tables) |
 | [0178-rank-scores](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0178-rank-scores) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0181-employees-earning-more-than-their-managers) |
+| [0182-duplicate-emails](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/0595-big-countries) |
 | [1068-product-sales-analysis-i](https://github.com/Roman-pandey/Leetcode_Questions_Practice/tree/master/1068-product-sales-analysis-i) |
